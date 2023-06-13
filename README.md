@@ -1,5 +1,8 @@
 # mernFileshare
 
+Go to directory client and run : npm start
+Go to directory server and run : node server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
